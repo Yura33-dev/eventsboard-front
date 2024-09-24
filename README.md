@@ -1,5 +1,5 @@
 # Test task for ElifTech School
-## This repo contains backend part of task
+## This repo contains frontend part of task
 ### The level of accomplished tasks: Advanced
 
 Backend part is available:
